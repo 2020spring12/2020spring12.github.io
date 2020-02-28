@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body {
+  background-color: #D41C1C;
+  margin: 0 auto;
+}
+
+.floating {
+ text-align: right;
+ font-size: 20px
+}
+
+.welcome {
+	align-content: center
+}
+
+h1 {
+	color: #FFFDFD;
+	font-family: 'Oswald', sans-serif;
+	font-size: 32px;
+	font-weight: 300;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#formal {
+	margin-bottom: 50px;
+}
+#container {
+	width: 1000px;
+	margin: auto;
+}
+
+.information {
+ list-style-position: inside;
+  color:inherit;
+  text-align:center;
+  line-height: 24px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
