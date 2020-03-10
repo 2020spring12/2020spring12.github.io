@@ -28,3 +28,6 @@ h4 {
 h1 {
  color:black;
 }
+a:visited {color:lightsteelblue;}
+a:hover {font:bold;}
+a:active {color:whitesmoke;} 
