@@ -1,7 +1,8 @@
 @charset "UTF-8";
 body {
- background-color:beige;
+ background-color:cadetblue;
  text-align: center;
+ color:aliceblue
 }
 .ul {
 	text-align: center;
@@ -17,4 +18,13 @@ ul li {
 padding-left:8px;
 list-style:none;
 margin-bottom:6px;
+}
+h3 {
+ color:black;
+}
+h4 {
+ color:black;
+}
+h1 {
+ color:black;
 }
