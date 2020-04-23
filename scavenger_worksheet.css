@@ -1,0 +1,31 @@
+h1 {color:#white;
+font-family:Garamold;
+text-align: center;
+border: solid medium;
+ border-color: white;}
+
+h2 {color:#EDC2D8FF;
+font-family: Arial;
+text-align: center}
+body {background-color: #8ABAD3FF;
+border: solid medium;
+border-color: white;}
+
+p {font-family: Arial;
+color: white;
+text-align: center;}
+
+ul {color:white;
+text-align: center;
+list-style-position: inside;}
+ol {color:white;
+text-align: center;
+list-style-position: inside;}
+
+
+a:visited {color: white}
+
+a:hover {color:#EDC2D8FF}
+
+hr {color:white;
+ style: solid medium}
