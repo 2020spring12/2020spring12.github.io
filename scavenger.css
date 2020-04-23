@@ -1,30 +1,30 @@
-h1 {color:#white;
+h1 {color:#FFFFFF;
 font-family:Arial;
 text-align: center;
 border: solid medium;
  border-color: white;}
 
-h2 {color:#white;
+h2 {color:#FFFFFF;
 font-family: "Garamond;
 text-align: center}
 body {background-color:#purple;
 border: solid medium;
 border-color: white;}
 
-ul {color:white;
+ul {color:#FFFFFF;
 text-align: center;
 list-style-position: inside;}
-ol {color:white;
+ol {color:#FFFFFF;
 text-align: center;
 list-style-position: inside;}
 
 p {font-family: arial";
-color: white;
+color: #FFFFFF;
 text-align: center;}
 
 a:visited {color: white}
 
 a:hover {color:##008080}
 
-hr {color:white;
+hr {color:#FFFFFF;
  style: solid medium}
