@@ -1,4 +1,4 @@
-h1 {color:#FFFFFF;
+h1 {color:#008080;
 font-family:Arial;
 text-align: center;
 border: solid medium;
@@ -24,7 +24,7 @@ text-align: center;}
 
 a:visited {color: white}
 
-a:hover {color:##008080}
+a:hover {color:#008080}
 
 hr {color:#FFFFFF;
  style: solid medium}
