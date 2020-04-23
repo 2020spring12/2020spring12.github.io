@@ -4,7 +4,7 @@ text-align: center;
 border: solid medium;
  border-color: white;}
 
-h2 {color:#FFFFFF;
+h2 {color:#0000FF;
 font-family: "Garamond;
 text-align: center}
 body {background-color:#purple;
@@ -26,5 +26,5 @@ a:visited {color: #0000FF}
 
 a:hover {color:#008080}
 
-hr {color:#FFFFFF;
+hr {color:#0000FF;
  style: solid medium}
