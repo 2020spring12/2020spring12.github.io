@@ -14,15 +14,15 @@ border-color: white;}
 ul {color:#0000FF;
 text-align: center;
 list-style-position: inside;}
-ol {color:#FFFFFF;
+ol {color:#0000FF;
 text-align: center;
 list-style-position: inside;}
 
 p {font-family: arial";
-color: #FFFFFF;
+color: #0000FF;
 text-align: center;}
 
-a:visited {color: white}
+a:visited {color: #0000FF}
 
 a:hover {color:#008080}
 
