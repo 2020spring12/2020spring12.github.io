@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: NotoSansJP;
+  src: url(http://2020spring11.awesomewebm.org/NotoSansJP-Medium.otf);
+}
+
+#main {
+	background: #90ee90;
+	color: white;
+	font-family: NotoSansJP;
+	margin: 15px;
+}
+
+table {
+	text-align: center;
+	border-collapse: collapse;
+	border-style: solid;
+	margin: auto;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	width: 200px; 
+	
+}
+
+table, td, th {
+	border: 3px solid black;
+}
+
+th, td {
+	padding: 40px;
+	margin: auto;
+}
+
+aside {
+	text-align: right;
+	margin: 80px;
+	float: right;
+}
+
+#Flowers {
+	width: 70%
+	
+}
