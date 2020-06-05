@@ -27,12 +27,12 @@ h1	{
 	}
 h1
 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-family: Arial;
 	font-weight: bolder;
 	color:#FFFFFF;
 }
 p	{
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-family: "Arial;
 	padding-right: 10px;
 	border-style: Solid;
 	color:#FFFFFF;
@@ -45,9 +45,6 @@ p 	{
 	padding-right: 5px;
 	margin-top: 2px;
 	border-style: solid;	
-}
-a:link { 
-	color:aqua;
 }
 a:hover {
 	color: #008080;
