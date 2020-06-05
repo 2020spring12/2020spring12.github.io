@@ -46,6 +46,9 @@ p 	{
 	margin-top: 2px;
 	border-style: solid;	
 }
+a:link { 
+	color:aqua;
+}
 a:hover {
 	color: #008080;
 }
